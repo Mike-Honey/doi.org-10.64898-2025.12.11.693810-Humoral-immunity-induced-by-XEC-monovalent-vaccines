@@ -38,7 +38,7 @@ This page follows the style of the original chart. The interactive features allo
 
 #### Original Supplemental figure: Antigenic cartography
 
-![Supplemental figure: Antigenic cartography](https://github.com/Mike-Honey/doi.org-10.64898-2025.12.11.693810-Humoral-immunity-induced-by-XEC-monovalent-vaccines/raw/main/Humoral immunity induced by XEC monovalent vaccines against SARS-CoV-2 variants including XEC, LP.8.1, NB.1.8.1, XFG, and BA.3.2 - Supplementary Appendix_1.png)
+![Supplemental figure: Antigenic cartography](https://github.com/Mike-Honey/doi.org-10.64898-2025.12.11.693810-Humoral-immunity-induced-by-XEC-monovalent-vaccines/blob/main/doi.org%2010.64898%202025.12.11.693810%20Humoral%20immunity%20-%20Supplemental%20figure%20Antigenic%20cartography.png?raw=true)
 
 
 ### Methods
