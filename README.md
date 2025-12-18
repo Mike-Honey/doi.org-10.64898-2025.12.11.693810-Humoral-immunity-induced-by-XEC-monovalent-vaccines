@@ -20,9 +20,9 @@ This page presents the same visual as the original paper, with a few design chan
 An interactive "slicer" control at the right of the page allows the user to restrict the Viruses and/or vaccinated sera shown, to focus on an area of interest.
 
 
-[Link to interactive DataViz](https://app.powerbi.com/view?r=eyJrIjoiZDJmYWI3ZWEtYjJhNy00NzllLTgyNDQtOTlhZjMxZGZkNzlkIiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D&pageName=ed536217f33cd26c64ae)
+[Link to interactive DataViz](https://app.powerbi.com/view?r=eyJrIjoiYjk4MjM1NjgtMTE5Ny00ZjU5LWJkMTYtMGZjYjJiYzRjMDZhIiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D&pageName=dcf8ce7deb5586b11007)
 
-[![Click to view and interact with the report](https://github.com/Mike-Honey/doi.org-10.64898-2025.12.11.693810-Humoral-immunity-induced-by-XEC-monovalent-vaccines/raw/main/pct-of-incidence-change.png)](https://app.powerbi.com/view?r=eyJrIjoiZDJmYWI3ZWEtYjJhNy00NzllLTgyNDQtOTlhZjMxZGZkNzlkIiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D&pageName=ed536217f33cd26c64ae)
+[![Click to view and interact with the report](https://github.com/Mike-Honey/doi.org-10.64898-2025.12.11.693810-Humoral-immunity-induced-by-XEC-monovalent-vaccines/raw/main/alt-supplemental-figure-antigenic-cartography.png)](https://app.powerbi.com/view?r=eyJrIjoiYjk4MjM1NjgtMTE5Ny00ZjU5LWJkMTYtMGZjYjJiYzRjMDZhIiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D&pageName=dcf8ce7deb5586b11007)
 
 
 
@@ -31,9 +31,9 @@ An interactive "slicer" control at the right of the page allows the user to rest
 
 This page follows the style of the original chart. The interactive features allow tooltips and filtering of the data.
 
-[Link to interactive DataViz](https://app.powerbi.com/view?r=eyJrIjoiZDJmYWI3ZWEtYjJhNy00NzllLTgyNDQtOTlhZjMxZGZkNzlkIiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D&pageName=465e1d4f84036a256c0c)
+[Link to interactive DataViz](https://app.powerbi.com/view?r=eyJrIjoiYjk4MjM1NjgtMTE5Ny00ZjU5LWJkMTYtMGZjYjJiYzRjMDZhIiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D&pageName=465e1d4f84036a256c0c)
 
-[![Click to view and interact with the report](https://github.com/Mike-Honey/doi.org-10.64898-2025.12.11.693810-Humoral-immunity-induced-by-XEC-monovalent-vaccines/raw/main/repro-table-2.png)](https://app.powerbi.com/view?r=eyJrIjoiZDJmYWI3ZWEtYjJhNy00NzllLTgyNDQtOTlhZjMxZGZkNzlkIiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D&pageName=465e1d4f84036a256c0c)
+[![Click to view and interact with the report](https://github.com/Mike-Honey/doi.org-10.64898-2025.12.11.693810-Humoral-immunity-induced-by-XEC-monovalent-vaccines/raw/main/repro-supplemental-figure-antigenic-cartography.png)](https://app.powerbi.com/view?r=eyJrIjoiYjk4MjM1NjgtMTE5Ny00ZjU5LWJkMTYtMGZjYjJiYzRjMDZhIiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D&pageName=465e1d4f84036a256c0c)
 
 
 #### Original Supplemental figure: Antigenic cartography
