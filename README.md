@@ -6,7 +6,7 @@ bioRxiv 2025.12.11.693810; doi: https://doi.org/10.64898/2025.12.11.693810
 
 ## DataViz project to explore alternative visualisations of this scientific paper
 
-My analysis on this paper integrates the data behind the Supplemental figure: Antigenic cartography. The position of BA.3.2 was striking to many following the topic of variant evolution. 
+My analysis on this paper integrates the data behind the Supplemental figure: Antigenic cartography. The position of BA.3.2 was striking to many who follow the topic of variant evolution. 
 
 I used a tool to extract the coordinates for each point.  My apologies if I introduced any manual errors during that process.
 
